@@ -4,6 +4,6 @@ Please note ffmpeg is a command line tool. If you're unfamilar with that (as I w
 
 This script needs to be in the flac_files folder.
 
-Please note the meta data from the flac WILL NOT BE included.
-You will need to manually re-add that yourself or use a CUE file.
+Please note the meta data from the flac may not included.
+You may need to manually re-add that yourself or use a CUE file/additional script.
 
